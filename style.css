@@ -1,23 +1,41 @@
-*{
+* {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
+a {
+    text-decoration: none;
+
+}
+
+.w-33 {
+    width: 33%;
+}
 
 
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
 
+.space-between {
+    justify-content: space-between;
 
+}
 
+.justify-content {
+    justify-content: center;
+}
 
+.space-around {
+    justify-content: space-around;
+}
 
+.aligne-center {
+    align-items: center;
+}
 
-
-
-
-
-
-
-
-
-
+header ul {
+    list-style: none;
+}
