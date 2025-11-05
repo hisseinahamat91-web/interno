@@ -2,9 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-}
-body{
-    background-color: red;
+
 }
 a {
     text-decoration: none;
@@ -26,7 +24,7 @@ a {
 
 }
 
-.justify-content {
+.justify-center {
     justify-content: center;
 }
 
@@ -51,5 +49,39 @@ header ul {
 .aligne-texte{
     align-items: end;
 }
+.section-hero div {
+
+    text-align: center;
+
+}
+.w-100 {
+    width: 100%;
+}
+.w-48{
+    width: 48%;
+}
+.w-50 {
+    width: 50%;
+}
+
+.w-33 {
+    width: 33%;
+}
+
+.w-25 {
+    width: 25%;
+}
+.margin-top{
+    margin-top: 100px;
+}
+
+
+
+
+
+
+
+
+
 
 
