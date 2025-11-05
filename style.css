@@ -39,3 +39,15 @@ a {
 header ul {
     list-style: none;
 }
+.section-hero {
+    background-image: url("assets-interno/Banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.aligne-texte{
+    align-items: end;
+}
+
+
